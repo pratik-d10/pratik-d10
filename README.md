@@ -15,7 +15,7 @@
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,dotnet,javascript,jquery,nextjs,mysql,visualstudio,vscode,git,github")
+<img src="https://skillicons.dev/icons?i=java,php,html,css,bootstrap,dotnet,javascript,jquery,nextjs,mysql,visualstudio,vscode,git,github")
 </p>
 </br>
 
