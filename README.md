@@ -1,6 +1,6 @@
 
 <h1 align="center">< Hello World, I am Pratik Dokhale /></h1>
-<h3 align="center">A Passionate Web Developer from Nashik, Maharashtra.</h3>
+
 <img align="right" alt="coding" width="400" src="https://renowebdesigner.com/wp-content/uploads/2023/01/juicy-multitasking.gif"/>
 
 - 🌱 I’m currently learning **Web Development**
