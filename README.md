@@ -20,4 +20,4 @@
 
 
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codewwizard&label=Profile%20views&color=0e75b6&style=flat" alt="codewwizard" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratik-d10&label=Profile%20views&color=0e75b6&style=flat" alt="codewwizard" /> </p>
